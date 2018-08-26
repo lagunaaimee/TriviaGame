@@ -6,11 +6,15 @@ body {
     font-family: 'Metamorphous', cursive;
 }
 
-.jumbotron {
-    background: rgb(37, 35, 35);  
-    height:100%;
-    width:100%;
+#wrapper {
+    background: transparent;   
+    height:80%;
+    width:60%;
     text-align: center; 
+}
+
+.jumbotron {
+    background: rgb(37, 35, 35);
 }
 
 .vertical-center {
