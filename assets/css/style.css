@@ -1,0 +1,21 @@
+
+
+body {
+    background: url("../images/background.jpg");
+    color: #881b1b;
+    font-family: 'Metamorphous', cursive;
+}
+
+.jumbotron {
+    background: rgb(37, 35, 35);  
+    height:100%;
+    width:100%;
+    text-align: center; 
+}
+
+.vertical-center {
+    height:100%;
+    width:100%;
+    text-align: center;
+}
+
